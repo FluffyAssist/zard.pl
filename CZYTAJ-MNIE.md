@@ -1,8 +1,8 @@
 # ZARD – ZC4H2 Associated Rare Disorders po polsku
 
 Oficjalna, polskojęzyczna strona o ZARD (ZC4H2 Associated Rare Disorders),
-wraz z materiałami do pobrania. Statyczna aplikacja (React/TanStack) — deployowana
-na GitHub Pages przy każdym pushu do `main`.
+wraz z materiałami do pobrania. Strona statyczna — produkcyjnie pod https://zard.pl
+(GitHub Pages; deploy przy każdym pushu do `main`), plus pełna kopia offline w tym repo.
 
 ## Uruchomienie lokalne
 
